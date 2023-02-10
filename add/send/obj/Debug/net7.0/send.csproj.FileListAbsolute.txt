@@ -1,0 +1,17 @@
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.csproj.AssemblyReference.cache
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.AssemblyInfoInputs.cache
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.AssemblyInfo.cs
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.csproj.CoreCompileInputs.cache
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\send.exe
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\send.deps.json
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\send.runtimeconfig.json
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\send.dll
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\send.pdb
+C:\repos\3Cloud\calc\add\send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.csproj.CopyComplete
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.dll
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\refint\send.dll
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.pdb
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\send.genruntimeconfig.cache
+C:\repos\3Cloud\calc\add\send\obj\Debug\net7.0\ref\send.dll

@@ -1,0 +1,15 @@
+C:\repos\3Cloud\calc\add\add.core\bin\Debug\net6.0\add.core.exe
+C:\repos\3Cloud\calc\add\add.core\bin\Debug\net6.0\add.core.deps.json
+C:\repos\3Cloud\calc\add\add.core\bin\Debug\net6.0\add.core.runtimeconfig.json
+C:\repos\3Cloud\calc\add\add.core\bin\Debug\net6.0\add.core.dll
+C:\repos\3Cloud\calc\add\add.core\bin\Debug\net6.0\add.core.pdb
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.csproj.AssemblyReference.cache
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.AssemblyInfoInputs.cache
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.AssemblyInfo.cs
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.csproj.CoreCompileInputs.cache
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.dll
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\refint\add.core.dll
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.pdb
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\add.core.genruntimeconfig.cache
+C:\repos\3Cloud\calc\add\add.core\obj\Debug\net6.0\ref\add.core.dll
