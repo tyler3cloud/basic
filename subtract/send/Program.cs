@@ -13,7 +13,7 @@ do
     Console.Write("Enter an integer (q to quit): ");
     var input = Console.ReadLine();
 
-    if(input != null && input == "q" || input == "Q")
+    if(input == null && input == "q" || input == "Q")
     {
         continueInput = false;
     }
