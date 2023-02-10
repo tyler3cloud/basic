@@ -30,9 +30,9 @@ public class AddPositiveNumers
     [TestMethod]
     public void AddTwoDoubles()
     {
-        Double firstAddend  = 2.2222222;
-        Double secondAddend = 2.2222222;
-        Double result = addService.Add(firstAddend, secondAddend);
+        double firstAddend  = 2.2222222;
+        double secondAddend = 2.2222222;
+        double result = addService.Add(firstAddend, secondAddend);
         Assert.AreEqual(4.4444444, result);
     }
 }
