@@ -21,6 +21,7 @@ public class AddPositiveNumers
     [TestMethod]
     public void AddTwoDecimals()
     {
+        // change for testing
         decimal firstAddend  = 0.33m;
         decimal secondAddend = 0.22m;
         decimal result = addService.Add(firstAddend, secondAddend);
